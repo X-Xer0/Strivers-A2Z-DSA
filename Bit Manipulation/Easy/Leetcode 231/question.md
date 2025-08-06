@@ -44,5 +44,5 @@ Output:
 
 ---
 
-> ⚡ Tip: Powers of two have exactly one `1` in their binary representation. Use bit manipulation like `n & (n - 1) == 0` to check.
+> ⚡ Tip: Powers of two have exactly one `1` in their binary representation. Use bit manipulation like `n & (n - 1)==0` to check.
 
