@@ -39,10 +39,6 @@ Output:
 [1]
 ]
 
-yaml
-Copy
-Edit
-
 ---
 
 ## 🧾 Constraints
